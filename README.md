@@ -8,6 +8,14 @@ This repository contains a Python script to fetch champion win rates from [u.gg]
 python3 winrate_parser.py <champion_slug>
 ```
 
+Before running the script make sure the required Python packages are installed:
+
+You can install them individually or via the provided `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
 Example:
 
 ```bash
